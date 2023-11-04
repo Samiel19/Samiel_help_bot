@@ -1,6 +1,6 @@
 venv/
 .vscode/
-
+.pickle
 .env
 
 venv/

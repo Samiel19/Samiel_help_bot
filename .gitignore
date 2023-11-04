@@ -1,0 +1,15 @@
+venv/
+.vscode/
+
+.env
+
+venv/
+env/
+.idea/
+.vscode/
+logs/
+__pycache__/
+
+**.log
+
+test.py
